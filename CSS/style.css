@@ -55,7 +55,7 @@ header{
 .first{
     width: 100%;
     height: 620px;
-    background-image: url(/img/first_bg.png);
+    background-image: url(../img/first_bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
